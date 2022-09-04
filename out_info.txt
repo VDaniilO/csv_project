@@ -1,0 +1,8 @@
+Приветсвие:
+ ['dialog_id - 0 | msg_num 1 | message Алло здравствуйте', 'dialog_id - 1 | msg_num 1 | message Алло здравствуйте', 'dialog_id - 2 | msg_num 2 | message Алло здравствуйте', 'dialog_id - 3 | msg_num 1 | message Алло дмитрий добрый день', 'dialog_id - 3 | msg_num 2 | message Добрый меня максим зовут компания китобизнес удобно говорить'], 
+ Имя менеджера: 
+['dialog_id - 0 | msg_num 3 | manager_name ангелина', 'dialog_id - 1 | msg_num 2 | manager_name ангелина', 'dialog_id - 2 | msg_num 3 | manager_name ангелина', 'dialog_id - 3 | msg_num 2 | manager_name максим', 'dialog_id - 5 | msg_num 1 | manager_name анастасия'], 
+ Имя компании: 
+['диджитал', 'в', 'и', 'которая', 'которая', 'диджитал', 'диджитал', 'как', 'китобизнес', 'хорошо'], 
+ Прощание: 
+['dialog_id - 0 | msg_num 108', 'dialog_id - 1 | msg_num 54', 'dialog_id - 3 | msg_num 51', 'dialog_id - 4 | msg_num 33', 'dialog_id - 5 | msg_num 142']
